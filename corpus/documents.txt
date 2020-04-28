@@ -1,0 +1,121 @@
+label	description
+0	Buenos días Solicitamos que por favor validen porqué el sistema en algunas ocasiones no esta permitiendo confirmar las facturas de compra realizadas, si no que deben hacerlo por tablas. Quedamos atentos.
+0	MODIFICAR DOCUMENTO DE UN PACIENTE TIENIENDO EN CUENTA QUE LA HISTORIA CLINICA ESTA FACTURADA
+0	ADMISION 521397  AGREGAR EVOLUCION ADMISION 521520  MODIFICAR EXAMEN FISICO Y CAMBIAR USUARIO DEL NEDICO EN TURNO
+0	523011 522999 CORREGIR EVOLUCIONES
+0	Buen dia, Se solicita que el sistema obligue al médico turno  a cambiar el centro de costo o la ubicación donde se encuentra el paciente dia dia,  al momento de guardar o copiar evoluciones, con el fin de que el sistema calcule correctamente  la base para la liquidación de los copagos. Agradecemos, su colaboración de forma prioritaria para este requerimiento.
+0	"* LAS ADMISIONES SIGIENTES NO MUESTRAN EL CONTENIDO DE LECTURA POR EL RADIOLOGO EN TURNO "" 7715, 7702,7835,7503,7510,7575,7568. * LA DAMISION 7871 MUSTRA EL CONTENIDO DE LA LECTURA POR EL RADIOLOGO EN TURNO MAS NO MUESTRA QUE TIPO DE ESTUDIO SE REALIZO AL PACIENTE."
+0	NO PERMITE IMPRIMIR INFORME
+0	Buenos días Por favor validar el porque aparece inhabilitado el botón de impresión (en el registro de oxigeno).
+0	MODIFICAR EVOLUCIONES
+0	ADMISIONES DE HISTORIAS CLÍNICAS LAS CUALES  PRESENTAN INCONSISTENCIAS  EN DESCRIPCION REAL DE ECHOS DE ACCIDENTE DE TRANSITO  LAS ADMISIONES SON 526854- 526856  Y NUMERO DE TRIAGE  EN LA ADMISION  526860
+0	HISTORIAS CLÍNICAS CON INCONSISTENCIAS EN EVOLUCIONES MEDICAS Y  NUMERO DE TRIAGE LAS CUALES SON 527069-526854-526856-526728-526976.
+0	CORRECCION EN HC Y ORDENES MEDICAS   EN ADMISIONES 526867 Y 526870
+0	CORREGIR FECHAS DE LECTURAS
+0	HISTORIAS CON ERROR EN ORDENES MEDICAS Y NUMERO DE TRIAGE EN HOSTORIA CLINICA LAS ADMISIONES SON LAS SIGUIENTES: 526870 526867 528379
+0	MEDICO DE TURNO NO REALIZA ORDEN MEDICA COMPLETA EN ADMISION 529214
+0	HISTORIAS CLÍNICAS LAS CUALES ESTÁN PENDIENTES  POR CORREGIR ORDEN MEDICA Y EVOLUCIONES EN LAS MISMAS  LAS ADMISIONES SON 529480  Y LA 529527.
+0	HISTORIAS CLÍNICAS CON ORDEN MEDICA INCOMPLETA Y HC POR AGREGAR DESCRIPCIÓN DE UN PROCEDIMIENTO LAS ADMISIONES SON  529932   Y 529480.
+0	1001683301 DARLIN CELENE JORDAN 11 FEBRERO 2019 USUARIA ATENDIDA ESTE DIA POR LA DOCTORA DAYANA ROMERO QUIEN PUSO EN LA HISTORIA LA FECHA MAL INGRESADA
+0	BUEN DÍA ,FAVOR COLABORARME  YA QUE AL CONFIRMAR CITAS DE CONSULTA EXTERNA Y INGRESAR EL CENTRO DE COSTO EL CUAL ES UNO SE HACE BIEN TODO EL PROCEDIMIENTO PERO DESPUÉS ME INGRESO A LA ADMISIÓN Y SALE CENTRO DE COSTO 1 PERO SALE SALA DE PARO NO SE QUE PASA PERO EVIDENTEMENTE TIENE UN ERROR
+0	CAMBIAR FECHA EN ODONTOGRAMA
+0	Buen dia Se solicita cambiar centro de costo de las siguientes cargos de facturación, para una correcta liquidación de copagos: 35012, 35011, 3495, 35022, 35047, 35055, 35056, 35098, 35124, 35128, 35129, 35152, 35167, 35170, 35192, 35216, 35261, 35269, 35270, 35302, 35228. Gracias por su atencion, esperamos una pronta y positiva respuesta
+0	"Cordial saludo, Solicitamos revisar la factura NAC 622, ya que el sistema no permite ingresar la glosas, ya que ""Existe un pago realizado a esta factura con una fecha superior a la fecha con que se está registrando para esta objeción de glosa"" Gracias por su atencion, esperamos una pronta y positiva respuesta."
+0	HICTORIA CLINICA WLSON BRAVO GOMEZ  CON ADMISION 532288 LE FALTA ORGANIZAR EVOLUCION Y CORRECCION EN CONDUCTA A SEGUIR
+0	eliminar radicados del modulo de auditoria
+0	"DESBLOQUEAR ADMISION 9493 DE HIRUKO PORQUE FUE LEIDA POR RADIOLOGO DE TURO ""ALFREDO NAVARRO UCROS RADIOLOGO DE TURNO"""
+0	Buenos días: Me permito solicitarle soporte para cambiar en el centro de costo del día 14 marzo 2019, ya que al momento de facturar champú se digitó unidad de diversos y es unidad de mercado. Gracias por su acostumbrada colaboración.
+0	Se solicita cambio de fecha de radicación de las siguientes facturas: NAC786  Fecha: 08/02/2019 NAC785  Fecha: 08/02/2019 NAC788  Fecha: 12/02/2019 NAC789  Fecha: 12/02/2019 NAC790  Fecha: 12/02/2019 Se adjunta oficio de autorizacion por parte de la contadora de  nuestra institución. Gracias por su atención.
+0	El sistema al momento de modificar información no guarda lo modificado, se ha solicitado en varias oportunidades desde el inicio del sistema y nunca nos han brindado solución, no modifica ningún dato cuando se guarda una cita, y ahora se pasa este soporte, porque cuando se lo modifica una fecha de nacimiento al paciente, no hace la correccion al momento de generar el reporte. El caso sucedio con la admision 120176 emerlina rosa marzola bustamante
+0	ERROR EN FACTURA NO APARECE COPAGO
+0	NERIS MARGOTH ACOSTA  CON  ADMISION 541461  SE DE BE ORGANIZAR  EL EGRESO  EN UNA ULTIMA EVOLUCION
+0	JAVIER IVAN CORREA OCAMPO CON  ADMISION 542599  CORREGIR  EVOLUCION YA QUE NO ES UN ACCIDENTE DE TRANSITO SI NO LABORAL.
+0	Buenos días Cordial saludo, a continuación se solicita realizar cambio de un tercero que se ingreso por error en la factura de compra número: 1171458716 nit tercero actual:  94542302 nit tercero : 830011670-3
+0	GENERA RECIBO DE CAJA MAS NO FACTURA
+0	se solicita corregir el error que sale al momento de guardar el numero de  autorizacion
+0	Buenos días Cordial saludo, a continuación se solicita realizar cambio de un tercero que se ingreso por error en la factura de compra número: 107 nit tercero actual: 1038650083 Razón Social: Jose Angel Galval Fuerte nit tercero : 92501491-8 Razón Social: Angel Rafael Pereira
+0	LUIS CARLOS CAMPILLO JIMINEZ ADMISION 543155   ANEXAR SITIO DE OCURRENCIA
+0	buenos días Se solicita validar porque la naturaleza de las cuentas que deberían ser créditos, las llama al débito. por ejemplo la cuenta número 28152501 tiene definida afectar la naturaleza crédito y cuando se va causar una factura lleva la cuenta al débito.
+0	SOLICITO SOPORTE PARA HACER LA RESPECTIVA CORRECCION DE LA FECHA A UNA HISTORIA CLINICA
+0	Buenos días: Me permito solicitarle para corregir una impresión de resultado citología a nombre de la señora MARGENIA DEL CARMEN VILLALBA VARGAS, identificada con cédula 39.303.292, ya que al momento de imprimir el resultado sale incompleto. Gracias por su gentil colaboración.
+0	BORRAR REPORTE DE ADMISIÓN 122271 PACIENTE JOSÉ GREGORIO ROMERO A QUIEN POR ERROR SE LE REPORTÓ UNA MAMOGRAFÍA.
+0	Buenos días Cordial saludo,  se solicita verificar SURVANTA ordenada el día 30 de abril de 2019 en el ingreso: 368 y que no aparece para administrar. Quedo atento.
+0	Buenas tardes: Me permito solicitarle soporte para pasar al usuario de servicios, ya que al momento de facturar se realizó con el usuario de farmacia  la paciente identificada con cedula de 1.067.877.628 DERLYS OTERO factura 272209 y la NADIT MARRUGO GUTIERREZ, identificada con cedula 25.775732 factura 272161. Por otro lado les solicito verificar el programa de SISNET, ya que al momento de tomar una historia la mayoría de las pacientes aparecen que se realizaron histerectomía.
+0	SACAR PACIENTE DE LISTA DE URGENCIAS YA QUE ESTE PASO A SER HOSPITALIZADO Y APARECE EN AMBAS PARTES TANTO EN HOSPITALIZACION  COMO EN SALA DE OBSERVACIÓN. ADMISION 747835 EIMYS ISABEL  MONTES SUAREZ NOTA: SACAR DE OBSERVACION.
+0	PACIENTE QUE NO SE ENCUENTRE EN HOSPITALIZACION PERO EN EL SISTEMA APARECE EN OBSERVACIÓN
+0	Buenos días: Me permito solicitarle soporte para pasar al usuario 261 la factura 272563 a nombre de la señora TUDIS MANGA, ya que es de productos y se facturó en servicios. Gracias por su acostumbrada colaboración.
+0	Solicito soporte tecnico para el cierre de historia del servicio de hospitalizacion ya que no permirte facturar por valores en 0, ademas de que los servicios no facturables aparecen como facturables
+0	CORREGIR SITIO DE OCURRENCIA DE LAS HISTORIAS CLÍNICAS CON ADMISIÓN 546877 Y 548426
+0	MARIA ISABEL ACEVEDO CARDDENAS ADMISION 548662  NO DEJO HOSPITALIZAR Y TODAS LAS NOTAS LAS HICIERON POR URGENCIAS
+0	EN LA ADMISION 548711 EL DIA 16 DE MAYO SE GENERO UNA RECIBO DE CUOTA MODERADORA ESTE GUARDO EN EL SISTEMA PERO LO REFLEJO EN CERO.
+0	eliminar radicado del módulo de auditoria ya que se escogió una factura equivocada
+0	MEDICO NO DEFINE LA SALIDA DEL PACIENTE EN LA HISTORIA CLINICA
+0	ELIMINAR CONCILIACIÓN YA QUE NO CONCUERDAN ERROR
+0	eliminar salida sistencial  ya que el medico se equivoca y el paciente aun esta hospitalizado
+0	CORREGIR 15 HISTORIAS CLINICAS DE URGENCIA, CREAR Y MODIFICAR EVOLUCIONES
+0	Buenas tardes,  por favor validar por el medicamento DICYNONE ampoya, el cual se encuentra creado en el servicio farmacéutico, no le aparece disponible a los especialistas para ordenar. Quedo atento
+0	1-Tengo dificultades con los rips me salen los codigo de laboratorio uroanalisis y hemograma en el archivo consulta.
+0	ADRIANA CRISTINA CORDERO VERGARA  ADMISION 560175  AGREGAR UNA EVOLUCION
+0	HIJO DE CINDY PAOLA OVIEDO ARRIETA  ADMISION 552910  CORREGIR NOTAS DE ENFERMERÍA Y CONDUCTA A SEGUIR  ORDENES MEDICAS.
+0	Muy buenas tardes, La presente es para solicitar muy amablemente, la correpcion y anulación de nota de admisión que  salio doble generando factura con valor diferente a lo pactado en el contrato de comparta.
+0	YENNIFER  GAINZE PACHECO  ADMISION 564994  AGREGAR UNA NOTA A LA PRIMERA EVOLUCION
+0	cambiar copagos Para cambiar : Copag 264 Pagop 265 Pagop 267 Copag 261 De la cuenta 11100501 a la cuenta 11051002 Estos movimientos fueron e el mes de julio de 2019
+0	NO SE REFLEJA LA CUOTA MODERADORA EN LA FATURA DE NUEVA EPS
+0	Se solicita soporte para corrección de incapacidad de la admisión 54427, se debe corregir la fecha de inicio de incapacidad
+0	Solicito soporte tecnico para poder sacar las facturas 73072,73075 y 73074, las cuales estan dentro de la cuenta de cobro 1175 que ya s encuentra radicada, las facturas se incluiran en la cuenta de cobro del mes de agosto
+1	AL INTENTAR DESCARGAR REMISIÓN A PDF NO ME PERMITE POR QUE PRESENTA ERROR
+1	INGRESAR FACTURA N° 121880 A CUENTA DE COBRO N° 3555
+1	Buen día El software esta duplicando las glucometrias al momento de imprimirlas, por favor validar.
+1	SE SOLITA DETERMINAR  EL PUNTO DE ORIGEN CON EL INCOVENIENTE CON PACIENTES QUE REINGRESAN AL SERVIO. LOS CUALES EN SU MAYORIA SON TRIAJE 4 CON SALIDAS.Y AL MOMENTO DE REINGRESAR AL MEDICO NO LE DEJA ASIGNAR CAMA.SE LE ASIGNA CAMA MANUAL ULTIMAMENTE, PERO EN ALGUNOS ESTOS MISMOS AMERITAN SER HOSPITALIZADOS Y LUEGO DE HACER RECPCION NO LE APARECE ASIGNADA NINGUNA CAMA GRACIAS POR SU COLABORACION
+1	NO DEJA RADICAR CUENTA DE COBRO N° 2715 CON N° DE FACTURA AC110507 LA FECHA DE RADICACION ES = 14/01/2019
+1	SOPORTE EN FARMCIA SOPORTE EN FACTURACION SOPORTE EN CAJA
+1	Actualmente se evidencia un error en los saldos finales de los inventarios, al parecer, la formula que multiplica las cantidades por el costo está mala. Este caso fue reportado anteriormente con el N° 2756, sin respuesta alguna por parte de Siscolsi.
+1	Las notas crédito que se realizan desde el modulo de facturación del SISS, no están afectando a los estados de cartera o cuentas por cobrar. Es decir, cuando en facturación se realiza una nota credito, en cartera no se disminuye el valor. Se debe revisar la parametrización
+1	Buenos días: Me permito solicitarle soporte para corregir los Rips del mes de Enero, ya que no se refleja las facturas. Gracias
+1	ERROR AL MOMENTO DE GENERAR LOS RIPS¡¡¡ No están generando los pacientes total mente completos en el archivo US
+1	Buenos días Se solicita verificar porque los ANEXOS (1), al momento de generarlos sale con el usuario de admisiones y no del profesional que lo indica. Ocurre con varios ingresos.
+1	HISTORIA CLINICA 527684   LA CUAL ESTABA CON MEDICAMENTOS ADMINISTRADOS Y COMPLETOS Y YA NO APARECEN
+1	ERROR AL MOMENTO DE GENERAR LOS RIPS DEL MES DE NOVIEMBRE Y DICIEMBRE DE 2018, SALE UN ERROR DE INDICADOR DE TIEMPO DE RESPUESTA EN EL SERVIDOR.
+1	Se solicita soporte tecnico ya que al momento de editar los FURIPS presenta un error el cual no permite la edicion satisfactoria, ademas en el area de las urgencias los medicos han tenido inconveniente al dar la alta medica del sistema, al efectura el proceso de alta medica el paciente no egresa del sistema permaneciendo alli indefinidamente. Ademas de que se necesita la correccion de algunas historias clinicas (ordenes medicas y evoluciones)
+1	LA PARTE DEL MODULO DE AUDITORIA NO ME TRAE LAS FACTURAS RADICADAS PREVIAMENTE PARA CARGAR GLOSAS
+1	Buen día En el modulo de admisiones (creación de pacientes), luego de la actualización el buscador no es funcional ya que no filtra a medida que se ingresan los caracteres. se deben buscar los pacientes manualmente. agradecemos pronta solución
+1	No se puede modificar la fecha de una admisión, si se cargan medicamentos no aparecen en los informes sin facturar, se extrae una nota de admisión para modificar o eliminar  medicamentos, los medicamentos se eliminan pero siguen apareciendo en la parte derecha  gracias por su atención gracias
+1	Por favor validar el proceso de prestamos de insumos y medicamentos, ya que al momento de ingresar un préstamo no deja avanzar porque pide el valor del insumo o medicamento, el cual nosotros no manejamos. Anteriormente el sistema el sistema tomaba el precio del producto en el inventario.
+1	ELIMINAR DOBLE DOBLE REPORTE DE LA ADMISION 8612 EXACTAMENTE LA QUE FIGURA COMO TOMOGRAFIA DEJANDO EL REPORTE DEL RADIOLOGO DR GUSTAVO NAVARO Y QUE PERMITA VISUALIZAR ESTE.
+1	SE SOLICITA SOPORTE TECNICO Y QUE SE HAGA LA DEBIDA REVISION PARA SOLUCIOAR ESTE INCONVENIENTE YA QUE NO ES LA PRIMERA VEZ QUE SE PRESENTA, LOS PPACIENTES  EN OBSERVACION , EL SISTEMA NO PERMITE SACARLOS Y QUEDAN ALLI POR TIEMPO INDEFINIDO
+1	N° DE FACTURA CON VALOR TOTAL ERRADO (AC_142262)
+1	Solicito soporte tecnico  para ajustes de los FURIPS, ya que este se diligencia en sus partes A, B y C, al momento de imprimirlo solo sale la parte A duplicada. Abjunto pantallazo
+1	hay un paciente que no deja agendar.
+1	no deja anular admision 119350
+1	ERROR EN LA FECHA DE INGRESO POR LA URGENCIA Y POR LA CONSULTA, POR LA URGENCIA AL MOMENTO DE GUARDAR LA HISTORIA CLÍNICA SE GUARDO CON LA FECHA DE 19 DE OCTUBRE DE 4265 Y  HOY SE PRESENTA CON OTRO PACIENTE POR LA CONSULTA EXTERNA GINECÓLOGA PARA UNA FORMULA MEDICA, ANEXO IMAGEN
+1	Buenas Tardes por tercera vez, otra paciente se trata de agendar y el sistema no deja ingresarla. cc: 34.966.539 georgina del carmen bedoya sanchez
+1	ERROR A LA HORA DE CORREGIR Y  ACTUALIZAR DATOS EN CARGO DE SERVICIOS.
+1	No aparece factura al momento de relacionarla a la cuenta de cobro, solicitud de acompañamiento en proceso de creación de contratos, tarifas y creación de profesional
+1	Solicitamos la correcion de los redondeos en la cifras del valor de los procedimientos
+1	Se solicita revision de los valores al momento de cargarlos en cargo de servicios
+1	VERIFICAR FECHA EN RESPUESTA DE CONCILIACIÓN YA QUE AL MOMENTO DE REALIZARLA NO PERMITE YA QUE DICE QUE LA FECHA DE RECEPCIÓN NO PUEDE SER MAYOR A LA FECHA DE CONCILIACIÓN, SE VERIFICA CON NESTOR  Y NO COINCIDE EL ERROR
+1	Cordial Saludo, Solicitamos soporte para validar caso de los ingresos 365, 366, 367, los cuales corresponden 2 pacientes gemelares,  el sistema deja crear los pacientes de forma independiente , pero al momento de adicionarlos, toma la información del primer paciente, duplicando la admisión inicial,  se debe tener  que la información de los pacientes en mención es prácticamente la misma a diferencia en el último dígito del número de identificación.
+1	Buenas tardes, se solicita verificar y restaurar las ordenes adicionales que se eliminaron (de un momento a otro) entre las fechas del 7 y 13 de abril, del ingreso: 344. Quedamos atentos.
+1	EL MODULO FACTURACION PESTAÑA INFORMES FACTURACION PESTAÑA INFORMES PERSONALIZADOS: 1- LA OPCION LIQUIDACION DETALLADA DE RADFIOLOGOS Y LIQUIDACION CONSOLIDADA DE RADIOLOGOS NO ESTAN ENTREGANDO INFORMES EXACTOS A LA INGRASADA AL MODULO... 2- MIENTRAS QUE EN LA OPCION CONSOLIDADO EN CANTIDADES DE SERVICIOS PRESTADOS COMO TAMBIEN EN EL MODULO FACTURACION PESTAÑA INFORME FACTURACION LA OPCION INFORMES GENERALES LOS CONSOLIDADOS ARROJAN LA INFORMACION EXACTA INGRESADA EN EL MODULO.
+1	ERROR A LA HORA ENTREGA DEL INFORME
+1	SE SOLICITA CORREGIR ERROR AL MOMENTO DE IMPRIMIR FACTURAS
+1	buen día Por favor validar mensaje de error que aparece al intentar contabilizar (guardar) la nomina.
+1	"Por favor validar el formato de control de transfusiones, ya que actualmente los registros que se guardan ""activos"" se cambia al estado ""inactivo"", trayendo con esto una inconsistencia delicada al momento de consultar la información, es de resaltar que el sistema de información adquirido debe de mantener la confiabilidad de la información suministrada, de manera respetuosa solicitamos nos solucionen este inconveniente ya que en una auditoria a futuro nos traerá inconvenientes. De igual los signos vitales diligenciados en este formato deben ser de carácter obligatorio al guardar la nota y no esta así."
+1	BUENOS DIAS, ME PERMITO SOLICITAR APOYO EN EL SOFTWARE CONTABLE, YA QUE EN LA ACTUALIZACION DE LAS NOTAS CONTABLES NO ME TRAE LAS CAUSACIONES APLICADAS AL TERCERO SELECCIONADO,  O SI EL PROCESO CAMBIO FAVOR NOTIFICAR
+1	SOLICITO SOPORTE PARA VERIFICACION DE LA RELIQUIDACION DE CARGOS, FACTURAS SE RELIQUIDAN A SOAT 2019 Y LOS VALORES CAMBIANDE FORMA CORRECTA, MAS EN EL ITEM DONDE DICE TARIFA SIGUE APARECIENTO ISS 2001 + 47%. CABE DESTACAR QUE NO EN TODAS LAS FACTURAS APARECE EL INCONVENIENTE
+1	Buenos días: Me permito solicitarle soporte para corregir los Rips del mes de Junio, ya que no refleja los números de facturas y el informe de la Resolución 0256. Gracias por su gentil colaboración.
+1	DIFERENCIA DE VALOR EN N° FACTURA 149149
+1	1-El archivo medicamento sale es el codigo ATC y la norma exige en codigo CUM 2-No deja cotizar medicamentos de manera particular
+1	"Al generar indicador a través de la ruta: ""Agenda_reportes_Indicadores y estadísticas de citas_periodo 2019_Indicador de citas total"", el valor correspondiente al denominador ""Número total de consultas médicas asignadas en la institución"" que para el mes de junio reporta un valor correspondiente a 683 citas, NO COINCIDE con el total de citas asignadas reportadas a través de la ruta: ""Agenda_reportes_Informes personalizados_Ficha técnica para el registro de la oportunidad de citas Res. 1552 del 2013, que para el mes de junio reporta un total de 485 pacientes o citas. Así mismo, al generar el indicador a través de la ruta: ""Agenda_Informes general de citas"" también se genera información inconsistente, pues el total de pacientes resultantes corresponde a 614 pacientes o citas asignadas. De esta manera no hemos podido generar confiabilidad en la información a analizar."
+1	SOLICITO SOPORTE TECNICO YA QUE EL SOPORTE DE LA ADMINISTRACION DE LOSMEDICAMENTOS SALE INCOMPLETO
+1	Buenos días, por favor validar por el medicamento DICYNONE ampoya, el cual se encuentra creado en el servicio farmacéutico, pero no deja crear plantilla para realizar CTC. Nota: es un soporte viejo. Quedo atento
+1	"Buen día Por favor verificar el anexo técnico 1, ya que al momento de imprimirlo el campo ""observaciones"" no visualiza la información guardada para el mismo."
+1	NO PERMITE CONFIRMAR CITA
+1	Solicito soporte técnico para corregir error al generar los Rips, se despliega unavisando de una falla y al generar los archivos planos no genera el archivo AU
+1	EL JEFE DE CARTERA SOLICITA CUADRAR LOS INFORMES QUE EL TIENE EN EL SOFTWARE CON LOS QUE SE REFLEJAN EN CONTABILIDAD. SE SOLICITA QUE EL INGENIERO JAIME RICARDO SE PRESENTE EL DIA DE MAÑANA PARA DICHO REQUERIMIENTO.
+1	SOLICITO SOPORTE TECNICO YA QUE SE NECECITAN ANULAR LAS FACTURAS 74789 Y 74409, AL MOMENTO DE REALIZAR EL PROCEDIMIENTO PRESENTA UN ERROR
+1	Se esta presentando en la mayoría de las historias que la fecha y hora del egreso de urgencia es mayor  a la fecha y hora del ingreso a hospitalización. pues debe ser coherente y la fecha de ingreso a piso mayor a la salido de urgencia. incluso la fecha de ingreso a hospitalización  que se imprime en muchos casos no coincide con a que se visualiza en el Sistema. anexo
+1	no permite imprimir epicrisis de paciente en Quirofano (tiene ingreso hecho y tambien DX guardado)
+1	verificación de las sumatoria de las cuotas moderadoras y total de la facturación
+1	Error al generar los Rips, tardan en generar y al final sale un erro (anexo imágenes)
+1	Error al generar reporte de SISMED. Anexo imagen
